@@ -1,0 +1,21 @@
+Script started on Fri 13 Apr 2018 12:44:59 PM PDT
+]0;chan041@empress:~/cs211/CS211Progs/HWPrograms/HW6-lqueue[?1034h[chan041@empress HW6-lqueue]$ g++ lqueue.cpp hw6client.cpp
+]0;chan041@empress:~/cs211/CS211Progs/HWPrograms/HW6-lqueue[chan041@empress HW6-lqueue]$ ./a.out
+Case 1:
+1.The queue is empty.
+2.Displayng queue: [ empty ]
+3.adding integers...
+4.Displaying queue: [ 1][ 2][ 3]
+5.deleting 1,deleting 2
+6.Displaying queue: [ 3]
+7.The queue is NOT empty.
+8.deleting 3
+9.The queue is empty.
+
+Case 2:
+1.[ empty ]
+2.Error: list is empty.
+]0;chan041@empress:~/cs211/CS211Progs/HWPrograms/HW6-lqueue[chan041@empress HW6-lqueue]$ exit
+exit
+
+Script done on Fri 13 Apr 2018 12:45:19 PM PDT

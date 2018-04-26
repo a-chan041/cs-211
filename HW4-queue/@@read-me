@@ -1,0 +1,13 @@
+
+  Do not change the names of variables and functions as you copy
+  from my notes.
+
+  You can copy from my Word document to emacs easily because
+  right-click is Paste
+
+  g++ queuetest.cpp stack.cpp
+
+  Never compile the header file
+
+ -----
+  Never #include .cpp files

@@ -1,0 +1,324 @@
+Script started on Fri 16 Mar 2018 09:11:52 PM PDT
+]0;chan041@empress:~/cs211/CS211Progs/HWPrograms/HW6-lqueue[?1034h[chan041@empress HW6-lqueue]$ exlogoemacs lqueue.c[[[[[[[[[Kg++ lqueue.cpp hw6client.cpp
+]0;chan041@empress:~/cs211/CS211Progs/HWPrograms/HW6-lqueue[chan041@empress HW6-lqueue]$ ./a.out
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+A
+[empty]
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+B
+The queue is not full.
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+C
+Please enter the character you would like to add: d
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+C
+Please enter the character you would like to add: e
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+C
+Please enter the character you would like to add: f
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+C
+Please enter the character you would like to add: r
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+A
+The queue is not empty.
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+B
+The queue is not full.
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+C
+Please enter the character you would like to add: d
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+D
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+e
+Invalid entry. Try again.
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+C
+Please enter the character you would like to add: d
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+C
+Please enter the character you would like to add: r
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+C
+Please enter the character you would like to add: p
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+E
+[ e f r d d r p ]
+
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+C
+Please enter the character you would like to add: t
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+C
+Please enter the character you would like to add: m
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+C
+Please enter the character you would like to add: r
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+B
+The queue is full!
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+D
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+E
+[ f r d d r p t m r ]
+
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+C
+Please enter the character you would like to add: a
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+C
+Please enter the character you would like to add: w
+Fatal error: queue overflow
+]0;chan041@empress:~/cs211/CS211Progs/HWPrograms/HW6-lqueue[chan041@empress HW6-lqueue]$ ./a.oug++ lqueue.cpp hw6client.c./a.out[K
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+A
+[empty]
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+B
+The queue is not full.
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+C
+Please enter the character you would like to add: R
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+C
+Please enter the character you would like to add: e
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+E
+[ R e ]
+
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+D
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+E
+[ e ]
+
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+D
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+E
+Queue is empty
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+D
+Fatal error: queue underflow
+]0;chan041@empress:~/cs211/CS211Progs/HWPrograms/HW6-lqueue[chan041@empress HW6-lqueue]$ ./a.out
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+P
+Invalid entry. Try again.
+---------MENU----------
+A.testing function isEmpty
+B.testing function isFull
+C.testing function add
+D.testing function remove
+E.testing function displayAll
+Please enter your choice or Q to quit
+Q
+]0;chan041@empress:~/cs211/CS211Progs/HWPrograms/HW6-lqueue[chan041@empress HW6-lqueue]$ exit
+exit
+
+Script done on Fri 16 Mar 2018 09:15:01 PM PDT
