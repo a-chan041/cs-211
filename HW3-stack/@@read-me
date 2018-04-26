@@ -1,0 +1,14 @@
+
+  Do not change the names of variables and functions as you copy
+  from my notes.
+
+  You can copy and paste from my Word documents to emacs easily
+  because right-click is paste.
+
+  g++ stacktest.cpp stack.cpp
+
+  Never compile the header file
+
+----
+
+  Never #include .cpp files
